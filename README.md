@@ -8,7 +8,7 @@ Just enter the power (Wattage) of your appliance and the daily usage duration (h
 ## Technology used
 - HTML5 → Structure
 - CSS3 → Styling
-- JavaScript (Vanilla) → Logic & calculations
+- JavaScript → Logic & calculations
 
 ## How It Works
 - Enter appliance power in Watts
