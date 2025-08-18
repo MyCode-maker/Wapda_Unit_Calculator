@@ -6,9 +6,9 @@ Just enter the power (Wattage) of your appliance and the daily usage duration (h
 ![alt image](https://github.com/MyCode-maker/Electricity_Units_Calculator/blob/bc15e2c9ee41e0bb06363a699d33fd176f4596cb/unitfinder.JPG)
 
 ## Technology used
-HTML5 → Structure
-CSS3 → Styling
-JavaScript (Vanilla) → Logic & calculations
+-HTML5 → Structure
+-CSS3 → Styling
+-JavaScript (Vanilla) → Logic & calculations
 
 ## How It Works
 Enter appliance power in Watts
